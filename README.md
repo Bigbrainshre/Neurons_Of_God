@@ -4,9 +4,9 @@ This is the reference implementation of the engine for playing Sneak Peek hold'e
 
 ---
 
-## Team Contributions & Competition Performance
+## My Contributions & Competition Performance
 
-This repository contains the collection of poker bots developed and submitted by **Shreyas Asthana** as part of the **team _Neurons_Of_God_** for the **IITK PokerBots** competition.
+This repository contains the collection of poker bots developed and submitted by **Shreyas Asthana (me)** as part of the **team _Neurons_Of_God_** for the **IITK PokerBots** competition.
 
 Over the course of the competition, our team iteratively designed, tested, and refined multiple strategic approaches to Sneak Peek Hold'em. In total, we created **approximately 30 bot submissions**, each representing incremental improvements in decision logic, probability handling, and strategic depth.
 
